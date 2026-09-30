@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./arif_github_banner" alt="Md Arif Sarker - Full Stack Web Developer" width="100%" />
+  <img src="./banner/github-banner.png" alt="Md Arif Sarker - Full Stack Web Developer" width="100%" />
 </div>
 
 <br/>

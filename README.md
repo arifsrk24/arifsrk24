@@ -1,4 +1,9 @@
-<h1 align="center">Hello!👋 Welcome to GitHub Page!!!</h1>
+<div align="center">
+  <img src="./arif_github_banner" alt="Md Arif Sarker - Full Stack Web Developer" width="100%" />
+</div>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm Md Arif Sarker</h1>
 <h3 align="center">Aspiring Full Stack Web Developer. Writing Code, Solving Problems, Learning Every Day.</h3>
 
